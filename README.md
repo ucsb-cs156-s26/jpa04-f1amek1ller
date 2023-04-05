@@ -2,7 +2,7 @@
 
 Starter code for jpa00
 
-Assignment Description: <https://ucsb-cs156.github.io/f22/lab/jpa00>
+Assignment Description: <https://ucsb-cs156.github.io/s23/lab/jpa00>
 
 This lab is a simple `"Hello, World!" type assignment to familiarize
 you with compiling Java using Maven, and submitting using Gradescope.
@@ -55,6 +55,6 @@ If you use `ls -a` on this directory, you should the following hidden files:
   stored in the `git` repository; many are generally files produced
   by compiling the code.
 
-  See [https://ucsb-cs156.github.io/topics/git_gitignore/](https://ucsb-cs156.github.io/topics/git/git_gitignore.html)
+  See [https://ucsb-cs156.github.io/topics/git_gitignore.html](https://ucsb-cs156.github.io/topics/git/git_gitignore.html)
   information.
 
